@@ -1,0 +1,39 @@
+.contact-container {
+  display: flex;
+  flex-direction: column;
+  padding: 50px;
+  gap: 2rem;
+}
+
+.contact-item {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.contact-icon {
+  width: 50px;
+  height: 50px;
+  background-color: #ff8a80; 
+  border-radius: 50%;
+  display: flex;
+  align-items: center;  
+  justify-content: center; 
+  color: white;
+  font-size: 24px;
+}
+
+.contact-info span {
+  font-size: 1rem;
+  color: #333;
+}
+
+.copy-email {
+  cursor: pointer;
+  text-decoration: underline;
+  color: #333;
+}
+
+.copy-email:hover {
+  color: #ff8a80; /* rojo suave */
+}

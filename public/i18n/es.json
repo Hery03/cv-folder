@@ -1,0 +1,41 @@
+{
+  "ABOUT":{
+    "TITLE": "Sobre mí",
+    "PRESENTATION": "Hola, soy Heriberto Tijerina",
+    "DESCRIPTION": "Desarrollador Fullstack con más de 7 años de experiencia en el diseño, desarrollo e implementación de aplicaciones web escalables utilizando frameworks JavaScript modernos. Sólida experiencia en desarrollo frontend y back-end, servicios en la nube y flujos de trabajo ágiles. Reconocido por su responsabilidad, puntualidad y colaboración eficaz en equipos multifuncionales."
+  },
+    "EXPERIENCE":{
+    "TITLE": "Experiencia",
+    "POSITION": "Desarrollador Fullstack",
+    "COMPANY": {
+      "BIS1":"Desarrollo web utilizando React y Node.js",
+      "BIS2":"Administración de bases de datos MySQL",
+      "BIS3":"Implementación de microservicios Api Rest",
+      "HIMATEC":{
+        "DESCRIPTION":"Desarrollo Web utilizando:"
+      },
+      "RADAR1":"Desarrollo y mantenimiento de API REST y aplicaciones web utilizando Angular, Node.js, Express y React",
+      "RADAR2":"Arquitectura y desarrollo de backend y frontend",
+      "RADAR3":"Desarrollo y mantenimiento de aplicaciones basadas en consola con Node.js para automatizar procesos internos y tareas de manejo de datos",
+      "RADAR4":"Diseñó y optimización de consultas SQL complejas, stored procedures y triggers tanto en SQL Server como en MySQL para respaldar la lógica de aplicaciones basada en datos",
+      "RADAR5":"Implementación y mantenimiento de servicios basados en la nube utilizando AWS para garantizar la escalabilidad y la alta disponibilidad",
+      "RADAR6":"Uso de Docker para crear contenedores de aplicaciones y entornos"
+     }
+  },
+  "SKILLS": {
+    "TITLE":"Habilidades",
+    "TITLE2": "Lenguajes y bases de datos",
+    "TITLE3": "Otros"
+  },
+  "CONTACT":{
+    "TITLE":"Contacto",
+    "TITLE4":"Clic para copiar el número",
+    "TITLE5":"Clic para copiar el correo",
+    "TITLE6":"Correo copiado al portapapeles!",
+    "TITLE7":"Celular copiado al portapapeles!"
+  },
+  "BUTTON": {
+    "CHANGE_LANG": "Cambiar idioma"
+  },
+  "FOOT":"Con tecnología de"
+}

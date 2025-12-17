@@ -1,0 +1,42 @@
+<div class="layout">
+  <!-- SideNav -->
+  <nav class="side-nav">
+    <div class="nav-header">
+      CV Heriberto
+    </div>
+
+    <ul class="nav-list">
+      <li>
+        <a (click)="goToHome()">
+          <mat-icon>person</mat-icon>
+          <span>{{ 'ABOUT.TITLE' | translate}}</span>
+        </a>
+      </li>
+      <li>
+        <a (click)="goToExperience()">
+          <mat-icon>work</mat-icon>
+          <span>{{ 'EXPERIENCE.TITLE' | translate}}</span>
+        </a>
+      </li>
+      <li>
+        <a (click)="goToSkills()">
+          <mat-icon>bar_chart</mat-icon>
+          <span>{{ 'SKILLS.TITLE' | translate}}</span>
+        </a>
+      </li>
+      <li>
+        <a (click)="goToContact()">
+          <mat-icon>mail</mat-icon>
+          <span>{{ 'CONTACT.TITLE' | translate}}</span>
+        </a>
+      </li>
+      <li>
+        <a (click)="changeLanguage()">
+          <mat-icon>language</mat-icon>
+          <span>{{ 'BUTTON.CHANGE_LANG' | translate }}</span>
+          <!-- <span>{{ 'BUTTON.CHANGE_LANG' | translate }} ({{language}})</span> -->
+        </a>
+      </li>
+    </ul>
+  </nav>
+</div>

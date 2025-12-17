@@ -1,0 +1,23 @@
+<div class="contact-container">
+
+  <!-- Teléfono -->
+  <div class="contact-item">
+    <div class="contact-icon">
+      <mat-icon>phone</mat-icon>
+    </div>
+    <div class="contact-info">
+      <span (click)="copyPhone()" class="copy-email"  [matTooltip]=" 'CONTACT.TITLE4' | translate ">+52 867 3391285</span>
+    </div>
+  </div>
+
+  <!-- Correo -->
+  <div class="contact-item">
+    <div class="contact-icon">
+      <mat-icon>email</mat-icon>
+    </div>
+    <div class="contact-info">
+      <span  (click)="copyEmail()" class="copy-email"  [matTooltip]=" 'CONTACT.TITLE5' | translate " [innerText]="'heribertotijerina333@gmail.com'"></span>
+    </div>
+  </div>
+
+</div>

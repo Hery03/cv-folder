@@ -1,0 +1,47 @@
+.timeline {
+  position: relative;
+  margin: 2rem 0;
+  padding-left: 30px;
+  border-left: 3px solid #ff8a80; /* rojo suave */
+  margin-left: 50px;
+}
+
+.timeline-item {
+  position: relative;
+  margin-bottom: 2rem;
+}
+
+.timeline-dot {
+  position: absolute;
+  left: -9px;
+  top: 0.5rem;
+  width: 14px;
+  height: 14px;
+  background-color: #ff5252;
+  border-radius: 50%;
+}
+
+.timeline-content {
+  background: #fff;
+  padding: 1rem 1.5rem;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  width: 50%;
+}
+
+.timeline-content h3 {
+  margin: 0;
+}
+
+.company {
+  display: block;
+  font-weight: 600;
+  color: #555;
+}
+
+.date {
+  display: block;
+  font-size: 0.85rem;
+  color: #888;
+  margin-bottom: 0.5rem;
+}
