@@ -1,0 +1,41 @@
+{
+  "ABOUT":{
+    "TITLE": "About",
+    "PRESENTATION": "Hi, I'm Heriberto Tijerina",
+    "DESCRIPTION": "Full Stack Developer with 6 years of experience designing, developing, and deploying scalable web applications using modern JavaScript frameworks.Strong background in both front-end and back-end development, cloud services, and agile workflows. Recognized for responsibility, punctuality, and effective collaboration in cross-functional teams"
+  },
+  "EXPERIENCE":{
+    "TITLE": "Experience",
+    "POSITION": "Fullstack Developer",
+    "COMPANY": {
+      "BIS1":"Web development using React  and Node.js",
+      "BIS2":"Managed MySQL databases",
+      "BIS3":"Implemented communication with microservices (REST APIs)",
+      "HIMATEC":{
+        "DESCRIPTION":"Web development using:"
+      },
+      "RADAR1":"Developed and maintained RESTful APIs and full-stack web applications using Node.js, Express, and React",
+      "RADAR2":"Engineered backend logic and frontend interfaces",
+      "RADAR3":"Created and managed console-based applications with Node.js to automate internal processes and data handling tasks",
+      "RADAR4":"Designed and optimized complex SQL queries, stored procedures, and triggers in both SQL Server and MySQL to support data-driven application logic",
+      "RADAR5":"Deployed and maintained cloud-based services using AWS to ensure scalability and high availability",
+      "RADAR6":"Use Docker for containerization of applications and environments"
+      }
+  },
+  "SKILLS": {
+    "TITLE":"Skills",
+    "TITLE2": "Languages and Databases",
+    "TITLE3": "Others"
+  },
+  "CONTACT":{
+    "TITLE":"Contact",
+    "TITLE4":"Clic to copy phone",
+    "TITLE5":"Clic to copy email",
+    "TITLE6":"Email copied to clipboard!",
+    "TITLE7":"Phone copied to clipboard!"
+  },
+  "BUTTON": {
+    "CHANGE_LANG": "Change language"
+  },
+  "FOOT":"Powered By"
+}
